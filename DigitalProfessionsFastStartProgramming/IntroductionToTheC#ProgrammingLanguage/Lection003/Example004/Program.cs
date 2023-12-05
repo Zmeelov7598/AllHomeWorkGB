@@ -1,4 +1,4 @@
-﻿// Сортировка массива по возрастанию
+﻿// Сортировка массива по убыванию
 
 int[] arr = { 1, 5, 4, 3, 2, 6, 7, 1, 1 };
 
@@ -20,7 +20,7 @@ void SelectionSort(int[] array)
 
         for (int j = i + 1; j < array.Length; j++)
         {
-            if (array[j] < array[minPosition]) minPosition = j;
+            if (array[j] > array[minPosition]) minPosition = j;
 
         }
 

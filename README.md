@@ -38,10 +38,10 @@ ____
 * Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork003/Example003/Program.cs)
 #### Лекция и Семинар №4.
 
-* Напишите программу, которая на вход принимает число А и выдает сумму чисел от 1 до А.
-* Напишите программу, которая принимает на вход число и выдаёт количество цифр в числе.
-* Напишите программу, которая принимает на вход число N и выдаёт произведение чисел от 1 до N.
-* Напишите программу, которая выводит массив из 8 элементов, заполненный нулями и единицами в случайном порядке.
-* Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.
-* Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
-* Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
+* Напишите программу, которая на вход принимает число А и выдает сумму чисел от 1 до А. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminar004/Example001/Program.cs)
+* Напишите программу, которая принимает на вход число и выдаёт количество цифр в числе. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminar004/Example002/Program.cs)
+* Напишите программу, которая принимает на вход число N и выдаёт произведение чисел от 1 до N. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminar004/Examole003/Program.cs)
+* Напишите программу, которая выводит массив из 8 элементов, заполненный нулями и единицами в случайном порядке.[Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminar004/Example004/Program.cs)
+* Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.[Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork004/Example001/Program.cs)
+* Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.[Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork004/Example002/Program.cs)
+* Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.[Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork004/Example003/Program.cs)

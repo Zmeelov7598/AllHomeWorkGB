@@ -45,3 +45,7 @@ ____
 * Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.[Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork004/Example001/Program.cs)
 * Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.[Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork004/Example002/Program.cs)
 * Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.[Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork004/Example003/Program.cs)
+
+#### Семинар и лекция №5
+
+* Задайте массив из 12 элементов, заполненный случайными числами из промежутка [-9, 9]. Найдите сумму отрицательных и положительных элементов массива.

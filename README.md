@@ -48,9 +48,12 @@ ____
 
 #### Семинар и лекция №5
 
-* Задайте массив из 12 элементов, заполненный случайными числами из промежутка [-9, 9]. Найдите сумму отрицательных и положительных элементов массива.
-*  Напишите программу замена элементов массива: положительные элементы замените на соответствующие отрицательные, и наоборот.
-*  Задайте массив. Напишите программу, которая определяет, присутствует ли заданное число в массиве.
-* Задайте одномерный массив из 123 случайных чисел. Найдите количество элементов массива, значения которых лежат в отрезке [10,99].
-* Найдите произведение пар чисел в одномерном массиве. Парой считаем первый и последний элемент, второй и предпоследний и т.д. Результат запишите в новом массиве.
-* : Задайте массив. Напишите программу, которая выводит индексы всех элементов, равных заданному числу в массиве.
+* Задайте массив из 12 элементов, заполненный случайными числами из промежутка [-9, 9]. Найдите сумму отрицательных и положительных элементов массива. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare005/Example001/Program.cs)
+*  Напишите программу замена элементов массива: положительные элементы замените на соответствующие отрицательные, и наоборот. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare005/Example002/Program.cs)
+*  Задайте массив. Напишите программу, которая определяет, присутствует ли заданное число в массиве. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare005/Example003/Program.cs)
+* Задайте одномерный массив из 123 случайных чисел. Найдите количество элементов массива, значения которых лежат в отрезке [10,99]. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare005/Example004/Program.cs)
+* Найдите произведение пар чисел в одномерном массиве. Парой считаем первый и последний элемент, второй и предпоследний и т.д. Результат запишите в новом массиве. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare005/Example005/Program.cs)
+* Задайте массив. Напишите программу, которая выводит индексы всех элементов, равных заданному числу в массиве. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare005/Example006/Program.cs)
+* Задайте массив заполненный случайными положительными трёхзначными числами. Напишите программу, которая покажет количество чётных чисел в массиве.
+* Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечётных позициях.
+* Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.

@@ -37,6 +37,7 @@ ____
 * Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork003/Example002/Program.cs)
 * Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork003/Example003/Program.cs)
 #### Лекция и Семинар №4.
+_______
 
 * Напишите программу, которая на вход принимает число А и выдает сумму чисел от 1 до А. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminar004/Example001/Program.cs)
 * Напишите программу, которая принимает на вход число и выдаёт количество цифр в числе. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminar004/Example002/Program.cs)
@@ -47,6 +48,7 @@ ____
 * Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.[Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork004/Example003/Program.cs)
 
 #### Семинар и лекция №5
+______
 
 * Задайте массив из 12 элементов, заполненный случайными числами из промежутка [-9, 9]. Найдите сумму отрицательных и положительных элементов массива. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare005/Example001/Program.cs)
 *  Напишите программу замена элементов массива: положительные элементы замените на соответствующие отрицательные, и наоборот. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare005/Example002/Program.cs)
@@ -57,3 +59,10 @@ ____
 * Задайте массив заполненный случайными положительными трёхзначными числами. Напишите программу, которая покажет количество чётных чисел в массиве. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork005/Example001/Program.cs)
 * Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечётных позициях. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork005/Example002/Program.cs)
 * Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork005/Example003/Program.cs)
+
+#### Семинар и лекция №5
+_____
+
+* Напишите программу, которая перевернёт одномерный массив (последний элемент будет на первом месте, а первый на последнем и т.д.)
+* Напишите программу, которая принимает на вход три числа и проверяет, может ли существовать треугольник с сторонами такой длины.
+* Напишите программу, которая будет преобразовывать десятичное число в двоичное.

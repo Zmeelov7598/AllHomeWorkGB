@@ -60,12 +60,16 @@ ______
 * Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечётных позициях. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork005/Example002/Program.cs)
 * Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива. [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork005/Example003/Program.cs)
 
-#### Семинар и лекция №5
+#### Семинар и лекция №6
 _____
 
-* Напишите программу, которая перевернёт одномерный массив (последний элемент будет на первом месте, а первый на последнем и т.д.)
-* Напишите программу, которая принимает на вход три числа и проверяет, может ли существовать треугольник с сторонами такой длины.
-* Напишите программу, которая будет преобразовывать десятичное число в двоичное.
-* Не используя рекурсию, выведите первые N чисел Фибоначчи. Первые два числа Фибоначчи: 0 и 1.
-* Напишите программу, которая будет создавать копию заданного массива с помощью поэлементного копирования.
-* Пользователь вводит с клавиатуры M чисел. Посчитайте, сколько чисел больше 0 ввёл пользователь.
+* Напишите программу, которая перевернёт одномерный массив (последний элемент будет на первом месте, а первый на последнем и т.д.) [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare006/Example001/Program.cs)
+* Напишите программу, которая принимает на вход три числа и проверяет, может ли существовать треугольник с сторонами такой длины.  [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare006/Example002/Program.cs)
+* Напишите программу, которая будет преобразовывать десятичное число в двоичное.  [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare006/Example003/Program.cs)
+* Не используя рекурсию, выведите первые N чисел Фибоначчи. Первые два числа Фибоначчи: 0 и 1.  [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare006/Example004/Program.cs)
+* Напишите программу, которая будет создавать копию заданного массива с помощью поэлементного копирования.  [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare006/Example005/Program.cs)
+* Пользователь вводит с клавиатуры M чисел. Посчитайте, сколько чисел больше 0 ввёл пользователь.  [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork006/Example001/Program.cs)
+* Напишите программу которая найдет точку пересечения двух прямых заданных уравнениями y=k1*x+b1, y=k2*x+b2; Значения b1 и k1 b2 b k2 задаются пользователем.  [Решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork006/Example002/Program.cs)
+
+#### Семинар и лекция №7
+

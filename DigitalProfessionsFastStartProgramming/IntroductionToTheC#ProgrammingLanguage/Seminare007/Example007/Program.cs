@@ -57,6 +57,7 @@ int GetDeterminate(int[,] array)
     return result;
 }
 
+
 int[,] arrayA = new int[GetLengthArray("строк", "A"), GetLengthArray("столбцов", "A")];
 int[,] arrayB = new int[GetLengthArray("строк", "B"), GetLengthArray("столбцов", "B")];
 
@@ -83,5 +84,9 @@ if (GetDeterminate(arrayB) == 0)
     Console.WriteLine();
 }
 
+int[,] arrayMinor = new int[arrayA.GetLength(0), arrayA.GetLength(1)];
+
 PrintArray(arrayA);
 PrintArray(arrayB);
+
+// ДОДЕЛАТЬ ДЕЛЕНИЕ!!!!!!!!!!!!!

@@ -73,12 +73,12 @@ _____
 
 #### Семинар и лекция №7
 
-* Задайте двумерный массив размером m×n, заполненный случайными целыми числами.
-* Задайте двумерный массив размера m на n, каждый элемент в массиве находится по формуле: Aₘₙ = m+n. Выведите полученный массив на экран.
-* Задайте двумерный массив. Найдите элементы, у которых оба индекса чётные, и замените эти элементы на их квадраты.
-* Задайте двумерный массив. Найдите сумму главной диагонали.
-* Напишите программу для суммирования двух двумерных массивов
-* Напишите программу для умножения массива различных размерностей на число
-* Напишите программу для умножения двух двумерных массивов (есть ограничения в размерностях)
+* Задайте двумерный массив размером m×n, заполненный случайными целыми числами.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare007/Example001/Program.cs)
+* Задайте двумерный массив размера m на n, каждый элемент в массиве находится по формуле: Aₘₙ = m+n. Выведите полученный массив на экран.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare007/Example002/Program.cs)
+* Задайте двумерный массив. Найдите элементы, у которых оба индекса чётные, и замените эти элементы на их квадраты.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare007/Example003/Program.cs)
+* Задайте двумерный массив. Найдите сумму главной диагонали.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare007/Example004/Program.cs)
+* Напишите программу для суммирования двух двумерных массивов.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare007/Example005/Program.cs)
+* Напишите программу для умножения массива различных размерностей на число.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare007/Example008/Program.cs)
+* Напишите программу для умножения двух двумерных массивов (есть ограничения в размерностях).   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare007/Example006/Program.cs)
 * Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
-
+* Напишите программу, которая на вход принимает позиции элемента в двумерном массиве, и возвращает значение этого элемента или же указание, что такого элемента нет.

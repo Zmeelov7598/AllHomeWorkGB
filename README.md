@@ -80,17 +80,17 @@ _____
 * Напишите программу для суммирования двух двумерных массивов.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare007/Example005/Program.cs)
 * Напишите программу для умножения массива различных размерностей на число.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare007/Example008/Program.cs)
 * Напишите программу для умножения двух двумерных массивов (есть ограничения в размерностях).   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare007/Example006/Program.cs)
-* Напишите программу, которая на вход принимает позиции элемента в двумерном массиве, и возвращает значение этого элемента или же указание, что такого элемента нет.
-* Напишите программу для деления двух двумерных массивов.
-* Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
+* Напишите программу, которая на вход принимает позиции элемента в двумерном массиве, и возвращает значение этого элемента или же указание, что такого элемента нет.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork007/Example002/Program.cs)
+* Напишите программу для деления двух двумерных массивов.   [В процессе решения](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare007/Example007/Program.cs)
+* Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork007/Example003/Program.cs)
 
 #### Семинар и лекция №8
 
-* Задайте двумерный массив. Напишите программу, которая поменяет местами первую и последнюю строку массива.
-*  Задайте двумерный массив. Напишите программу, которая заменяет строки на столбцы. В случае, если это невозможно, программа должна вывести сообщение для пользователя.
-* Написать рекурсивный метод деления одного числа на другое. Нужно получить остаток от деления и результат деления.
-* Составить частотный словарь элементов двумерного массива. Частотный словарь содержит информацию о том, сколько раз встречается элемент входных данных.
-* Задайте двумерный массив. Напишите программу, которая упорядочит по убыванию элементы каждой строки двумерного массива.
-* Задайте прямоугольный двумерный массив. Напишите программу, которая будет находить строку с наименьшей суммой элементов.
+* Задайте двумерный массив. Напишите программу, которая поменяет местами первую и последнюю строку массива.  [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare008/Example001/Program.cs)
+*  Задайте двумерный массив. Напишите программу, которая заменяет строки на столбцы. В случае, если это невозможно, программа должна вывести сообщение для пользователя.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare008/Example002/Program.cs)
+* Написать рекурсивный метод деления одного числа на другое. Нужно получить остаток от деления и результат деления.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare008/Example003/Program.cs)
+* Составить частотный словарь элементов двумерного массива. Частотный словарь содержит информацию о том, сколько раз встречается элемент входных данных.   [решение вариант №1](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare008/Example004/Program.cs) [решение вариант №2](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare008/Example004Var002/Program.cs)
+* Задайте двумерный массив. Напишите программу, которая упорядочит по убыванию элементы каждой строки двумерного массива.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork008/Example001/Program.cs)
+* Задайте прямоугольный двумерный массив. Напишите программу, которая будет находить строку с наименьшей суммой элементов.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork008/Example002/Program.cs)
 * Сформируйте трёхмерный массив из неповторяющихся двузначных чисел. Напишите программу, которая будет построчно выводить массив, добавляя индексы каждого элемента.
-Массив размером 2 x 2 x 2
+Массив размером 2 x 2 x 2 [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork008/Example003/Program.cs)

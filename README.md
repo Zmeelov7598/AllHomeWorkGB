@@ -97,3 +97,7 @@ _____
 *  Вывести первые N строк треугольника Паскаля. Сделать вывод в виде равнобедренного треугольника.[решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare008/Example005/Program.cs)
 * Написать рекурсивный метод, проверяющий равенство сумм цифр одного числа и второго числа.  [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare008/Example006/Program.cs)
 * Написать рекурсивный метод, рассчитывающий количество делителей числа.  [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare008/Example007/Program.cs)
+
+#### Семинар и лекция №9
+
+* Задайте значение N. Напишите программу, которая выведет все натуральные числа в промежутке от 1 до N. Выполнить с помощью рекурсии.

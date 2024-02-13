@@ -81,7 +81,7 @@ _____
 * Напишите программу для умножения массива различных размерностей на число.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare007/Example008/Program.cs)
 * Напишите программу для умножения двух двумерных массивов (есть ограничения в размерностях).   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare007/Example006/Program.cs)
 * Напишите программу, которая на вход принимает позиции элемента в двумерном массиве, и возвращает значение этого элемента или же указание, что такого элемента нет.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork007/Example002/Program.cs)
-* Напишите программу для деления двух двумерных массивов.   [В процессе решения](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare007/Example007/Program.cs)
+* Напишите программу для деления двух двумерных массивов.   [решение в процессе](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare009/Example002/Program.cs)
 * Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/InWorking/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork007/Example003/Program.cs)
 
 #### Семинар и лекция №8
@@ -101,3 +101,6 @@ _____
 #### Семинар и лекция №9
 
 * Задайте значение N. Напишите программу, которая выведет все натуральные числа в промежутке от 1 до N. Выполнить с помощью рекурсии.
+* Задайте значение N.Напишите программу, к которая выведет все натуральные числа в промежутке от N до 1. выполнить с помощью рекрсии.
+* Задайте значения M и N. Напишите программу, которая найдет сумму натуральных элементов в промежутке от M до N.
+* Напишите программу вычисления функции Аккермана с помощью рекурсии. Даны два неотрицательных числа m и n.

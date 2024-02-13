@@ -100,7 +100,7 @@ _____
 
 #### Семинар и лекция №9
 
-* Задайте значение N. Напишите программу, которая выведет все натуральные числа в промежутке от 1 до N. Выполнить с помощью рекурсии.
-* Задайте значение N.Напишите программу, к которая выведет все натуральные числа в промежутке от N до 1. выполнить с помощью рекрсии.
-* Задайте значения M и N. Напишите программу, которая найдет сумму натуральных элементов в промежутке от M до N.
-* Напишите программу вычисления функции Аккермана с помощью рекурсии. Даны два неотрицательных числа m и n.
+* Задайте значение N. Напишите программу, которая выведет все натуральные числа в промежутке от 1 до N. Выполнить с помощью рекурсии.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/Seminare009/Example001/Program.cs)
+* Задайте значение N.Напишите программу, к которая выведет все натуральные числа в промежутке от N до 1. выполнить с помощью рекрсии.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork009/Example001/Program.cs)
+* Задайте значения M и N. Напишите программу, которая найдет сумму натуральных элементов в промежутке от M до N.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork009/Example002/Program.cs)
+* Напишите программу вычисления функции Аккермана с помощью рекурсии. Даны два неотрицательных числа m и n.   [решение](https://github.com/Zmeelov7598/AllHomeWorkGB/blob/main/DigitalProfessionsFastStartProgramming/IntroductionToTheC%23ProgrammingLanguage/HomeWork009/Example003/Program.cs)
